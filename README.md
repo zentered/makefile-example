@@ -2,6 +2,8 @@
 
 # Makefile for test and development environment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/heneise/makefile-example.svg)](https://greenkeeper.io/)
+
 Full article: https://medium.com/heneise/makefile-for-node-js-developers-34c407005a3b
 
 This is an example on how we use the Makefile to simulate different environments.
