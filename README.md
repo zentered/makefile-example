@@ -1,4 +1,4 @@
-[![HC](https://img.shields.io/badge/heneise-consulting-333333.svg?style=for-the-badge)]()
+[![HC](https://img.shields.io/badge/zentered-consulting-333333.svg?style=for-the-badge)]()
 
 # Makefile for test and development environment
 
